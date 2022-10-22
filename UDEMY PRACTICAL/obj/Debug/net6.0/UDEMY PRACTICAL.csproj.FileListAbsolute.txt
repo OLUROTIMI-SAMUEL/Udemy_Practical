@@ -1,0 +1,30 @@
+C:\Users\Hp\source\repos\UDEMY PRACTICAL\UDEMY PRACTICAL\bin\Debug\net6.0\UDEMY PRACTICAL.exe
+C:\Users\Hp\source\repos\UDEMY PRACTICAL\UDEMY PRACTICAL\bin\Debug\net6.0\UDEMY PRACTICAL.deps.json
+C:\Users\Hp\source\repos\UDEMY PRACTICAL\UDEMY PRACTICAL\bin\Debug\net6.0\UDEMY PRACTICAL.runtimeconfig.json
+C:\Users\Hp\source\repos\UDEMY PRACTICAL\UDEMY PRACTICAL\bin\Debug\net6.0\UDEMY PRACTICAL.dll
+C:\Users\Hp\source\repos\UDEMY PRACTICAL\UDEMY PRACTICAL\bin\Debug\net6.0\UDEMY PRACTICAL.pdb
+C:\Users\Hp\source\repos\UDEMY PRACTICAL\UDEMY PRACTICAL\obj\Debug\net6.0\UDEMY PRACTICAL.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\UDEMY PRACTICAL\UDEMY PRACTICAL\obj\Debug\net6.0\UDEMY PRACTICAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\UDEMY PRACTICAL\UDEMY PRACTICAL\obj\Debug\net6.0\UDEMY PRACTICAL.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\UDEMY PRACTICAL\UDEMY PRACTICAL\obj\Debug\net6.0\UDEMY PRACTICAL.AssemblyInfo.cs
+C:\Users\Hp\source\repos\UDEMY PRACTICAL\UDEMY PRACTICAL\obj\Debug\net6.0\UDEMY PRACTICAL.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\UDEMY PRACTICAL\UDEMY PRACTICAL\obj\Debug\net6.0\UDEMY PRACTICAL.dll
+C:\Users\Hp\source\repos\UDEMY PRACTICAL\UDEMY PRACTICAL\obj\Debug\net6.0\refint\UDEMY PRACTICAL.dll
+C:\Users\Hp\source\repos\UDEMY PRACTICAL\UDEMY PRACTICAL\obj\Debug\net6.0\UDEMY PRACTICAL.pdb
+C:\Users\Hp\source\repos\UDEMY PRACTICAL\UDEMY PRACTICAL\obj\Debug\net6.0\UDEMY PRACTICAL.genruntimeconfig.cache
+C:\Users\Hp\source\repos\UDEMY PRACTICAL\UDEMY PRACTICAL\obj\Debug\net6.0\ref\UDEMY PRACTICAL.dll
+C:\Users\SAMUEL OLUROTIMI\OneDrive\Documents\UDEMY PRACTICAL\UDEMY PRACTICAL\bin\Debug\net6.0\UDEMY PRACTICAL.exe
+C:\Users\SAMUEL OLUROTIMI\OneDrive\Documents\UDEMY PRACTICAL\UDEMY PRACTICAL\bin\Debug\net6.0\UDEMY PRACTICAL.deps.json
+C:\Users\SAMUEL OLUROTIMI\OneDrive\Documents\UDEMY PRACTICAL\UDEMY PRACTICAL\bin\Debug\net6.0\UDEMY PRACTICAL.runtimeconfig.json
+C:\Users\SAMUEL OLUROTIMI\OneDrive\Documents\UDEMY PRACTICAL\UDEMY PRACTICAL\bin\Debug\net6.0\UDEMY PRACTICAL.dll
+C:\Users\SAMUEL OLUROTIMI\OneDrive\Documents\UDEMY PRACTICAL\UDEMY PRACTICAL\bin\Debug\net6.0\UDEMY PRACTICAL.pdb
+C:\Users\SAMUEL OLUROTIMI\OneDrive\Documents\UDEMY PRACTICAL\UDEMY PRACTICAL\obj\Debug\net6.0\UDEMY PRACTICAL.csproj.AssemblyReference.cache
+C:\Users\SAMUEL OLUROTIMI\OneDrive\Documents\UDEMY PRACTICAL\UDEMY PRACTICAL\obj\Debug\net6.0\UDEMY PRACTICAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMUEL OLUROTIMI\OneDrive\Documents\UDEMY PRACTICAL\UDEMY PRACTICAL\obj\Debug\net6.0\UDEMY PRACTICAL.AssemblyInfoInputs.cache
+C:\Users\SAMUEL OLUROTIMI\OneDrive\Documents\UDEMY PRACTICAL\UDEMY PRACTICAL\obj\Debug\net6.0\UDEMY PRACTICAL.AssemblyInfo.cs
+C:\Users\SAMUEL OLUROTIMI\OneDrive\Documents\UDEMY PRACTICAL\UDEMY PRACTICAL\obj\Debug\net6.0\UDEMY PRACTICAL.csproj.CoreCompileInputs.cache
+C:\Users\SAMUEL OLUROTIMI\OneDrive\Documents\UDEMY PRACTICAL\UDEMY PRACTICAL\obj\Debug\net6.0\UDEMY PRACTICAL.dll
+C:\Users\SAMUEL OLUROTIMI\OneDrive\Documents\UDEMY PRACTICAL\UDEMY PRACTICAL\obj\Debug\net6.0\refint\UDEMY PRACTICAL.dll
+C:\Users\SAMUEL OLUROTIMI\OneDrive\Documents\UDEMY PRACTICAL\UDEMY PRACTICAL\obj\Debug\net6.0\UDEMY PRACTICAL.pdb
+C:\Users\SAMUEL OLUROTIMI\OneDrive\Documents\UDEMY PRACTICAL\UDEMY PRACTICAL\obj\Debug\net6.0\UDEMY PRACTICAL.genruntimeconfig.cache
+C:\Users\SAMUEL OLUROTIMI\OneDrive\Documents\UDEMY PRACTICAL\UDEMY PRACTICAL\obj\Debug\net6.0\ref\UDEMY PRACTICAL.dll

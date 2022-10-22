@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "UDEMY PRACTICAL/1.0.0": {
+        "runtime": {
+          "UDEMY PRACTICAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UDEMY PRACTICAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
